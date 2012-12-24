@@ -1,0 +1,22 @@
+Javaでグラフを書くのによさそうなライブラリ
+
+JFreeCharを使ってみることにする
+
+いかが良くまとまってる
+http://stackoverflow.com/questions/265777/what-is-the-best-open-source-java-charting-library-other-than-jfreechart
+http://java-source.net/open-source/charting-and-reporting
+
+売り物のコンポーネントはこっち
+http://www.componentsource.co.jp/features/charting-graphing/java-components/index.html
+
+・JFreeChart
+http://www.jfree.org/jfreechart/
+JFreeChart is a free 100% Java chart library that makes it easy for developers to display professional quality charts in their applications.
+　plot(array)でかけてしまうらしい
+　
+・char4j
+https://code.google.com/p/charts4j/
+charts4j is a free, lightweight charts & graphs Java API. It enables developers to programmatically create the charts available in the Google Chart Tools through a straightforward and intuitive Java API.
+　Google Char APIで描画してもらうらしい
+　Androidでも動く
+　ネットワーク環境が必須

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/home/hironori/PJ/PRML/lib/jama/Jama-1.0.2.jar" sourcepath="D:/home/hironori/PJ/PRML/lib/jama/Jama-1.0.2.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="http://math.nist.gov/javanumerics/jama/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/home/hironori/PJ/PRML/lib/jlapack/arpack_combined_all.jar"/>
+	<classpathentry kind="lib" path="D:/home/hironori/PJ/PRML/lib/netlib/netlib-java-0.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/home/hironori/PJ/PRML/lib/MTJ/mtj-0.9.12/mtj-0.9.12.jar" sourcepath="D:/home/hironori/PJ/PRML/lib/MTJ/mtj-0.9.12/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/home/hironori/PJ/PRML/lib/MTJ/mtj-0.9.12/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/home/hironori/PJ/PRML/lib/commons-math/commons-math3-3.0/commons-math3-3.0.jar" sourcepath="D:/home/hironori/PJ/PRML/lib/commons-math/commons-math3-3.0/commons-math3-3.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/home/hironori/PJ/PRML/lib/commons-math/commons-math3-3.0/commons-math3-3.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/home/hironori/PJ/PRML/lib/JFreeChart/jfreechart-1.0.14/lib/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="D:/home/hironori/PJ/PRML/lib/JFreeChart/jfreechart-1.0.14/lib/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
